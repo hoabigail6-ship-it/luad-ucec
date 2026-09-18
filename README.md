@@ -1,1 +1,2 @@
 # luad-ucec
+TCGA ID #46645467734 cBioPortal - accessed 7/28. ****https://www.cbioportal.org/results/cancerTypesSummary?plots_horz_selection=%7B%7D&plots_vert_selection=%7B%7D&plots_coloring_selection=%7B%7D&gene_list=GNAQ&cancer_study_list=esca_tcga_pan_can_atlas_2018&case_set_id=all&profileFilter=mutations%2Cstructural_variants%2Cgistic&RPPA_SCORE_THRESHOLD=2.0&Z_SCORE_THRESHOLD=2.0&geneset_list=%20****
